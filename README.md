@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/47293400/131231501-e1e5dece-0de8-4d3a-9ab3-3bef248b84c2.gif" alt="Mi banner">
 
 ### <h1>Actualmente me dedico a: </h1>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LM_Yair)](https://github.com/anuraghazra/github-readme-stats)
