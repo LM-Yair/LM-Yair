@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **LM-Yair/LM-Yair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://user-images.githubusercontent.com/47293400/131231501-e1e5dece-0de8-4d3a-9ab3-3bef248b84c2.gif" alt="Mi banner">
-<img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB">
 
 ### Actualmente me dedico a: 👋
