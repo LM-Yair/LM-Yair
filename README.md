@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 
 
 <a href="https://www.linkedin.com/in/yair-lazaro/">
-  <img align="left" src="https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt="icon_LinkedIn" width="21px">
-![linkedin](https://user-images.githubusercontent.com/47293400/131233042-80408a14-7614-4b8d-a75e-5fe4532aa5fa.png)
+  <img align="left" src="https://user-images.githubusercontent.com/47293400/131233042-80408a14-7614-4b8d-a75e-5fe4532aa5fa.png" alt="icon_LinkedIn" width="21px">
 </a>
