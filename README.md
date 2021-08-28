@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://user-images.githubusercontent.com/47293400/131231501-e1e5dece-0de8-4d3a-9ab3-3bef248b84c2.gif" alt="Mi banner">
-<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+<img alt="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB">
