@@ -18,6 +18,4 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LM-Yair&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<a href="https://www.linkedin.com/in/yair-lazaro/">
-  <img align="left" src="https://user-images.githubusercontent.com/47293400/131233042-80408a14-7614-4b8d-a75e-5fe4532aa5fa.png" alt="icon_LinkedIn" width="21px">
-</a>
+<a href="https://www.linkedin.com/in/yair-lazaro/" target="BLANK"><img align="left" src="https://user-images.githubusercontent.com/47293400/131233042-80408a14-7614-4b8d-a75e-5fe4532aa5fa.png" alt="icon_LinkedIn" width="21px"></a>
