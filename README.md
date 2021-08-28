@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/47293400/131231501-e1e5dece-0de8-4d3a-9ab3-3bef248b84c2.gif" alt="Mi banner">
 
 ### <h1>Actualmente me dedico a: </h1>
-
+<a href=”https://www.linkedin.com/in/yair-lazaro/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LM-Yair&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
