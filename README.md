@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 ### <h1>Actualmente me dedico a: </h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LM_Yair)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LM-Yair)](https://github.com/anuraghazra/github-readme-stats)
