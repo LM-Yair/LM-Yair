@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 ### <h1>Contactame 🤝</h1>
 
-<a href="https://www.linkedin.com/in/yair-lazaro/" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/47293400/131233042-80408a14-7614-4b8d-a75e-5fe4532aa5fa.png" alt="icon_LinkedIn" width="21px"></a>
+<a href="https://www.linkedin.com/in/yair-lazaro/" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/47293400/131233042-80408a14-7614-4b8d-a75e-5fe4532aa5fa.png" alt="icon_LinkedIn" width="25px"></a>
 
 ### <h1>Mi portafolio 💼</h1>
 
-<a href="http://yair-portafolio.herokuapp.com/" target="_blank"><img align="left" width="1em" src="https://user-images.githubusercontent.com/47293400/131233761-c95227b8-6b8a-4d19-8e4a-ae8e706cee93.png"></a>
+<a href="http://yair-portafolio.herokuapp.com/" target="_blank"><img align="left" width="25px" alt="icon_portafolio" src="https://user-images.githubusercontent.com/47293400/131233761-c95227b8-6b8a-4d19-8e4a-ae8e706cee93.png"></a>
 
 ### <h1>Actualmente me dedico 👨‍💻</h1>
 
