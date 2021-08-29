@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 
 ### <h1>Soy Desarrollador web Front-End 🖥️</h1>
 
-<p>Adquirí mis habilidades para desarrollo web Front-End de manera autodidacta, con cursos online y documentaciones oficiales, me encanta la tecnología y todo lo relacionado a ella,
-me gusta mucho aprender cosas nuevas y usar ese conocimiento para mejorar mis habilidades como desarrollador constantemente</p>
+<p>Adquirí mis habilidades para desarrollo web Front-End de manera autodidacta, con cursos online y documentaciones oficiales, me encanta la tecnología y todo lo relacionado a ella, me gusta mucho aprender cosas nuevas y usar ese conocimiento para mejorar mis habilidades como desarrollador constantemente</p>
 
 ### <h1>Contactame 🤝</h1>
 
@@ -29,7 +28,7 @@ me gusta mucho aprender cosas nuevas y usar ese conocimiento para mejorar mis ha
 
 ### <h1>Mi portafolio 💼</h1>
 
-<a href="http://yair-portafolio.herokuapp.com/" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/47293400/131233761-c95227b8-6b8a-4d19-8e4a-ae8e706cee93.png"></a>
+<a href="http://yair-portafolio.herokuapp.com/" target="_blank"><img align="left" width="1em" src="https://user-images.githubusercontent.com/47293400/131233761-c95227b8-6b8a-4d19-8e4a-ae8e706cee93.png"></a>
 
 ### <h1>Actualmente me dedico 👨‍💻</h1>
 
