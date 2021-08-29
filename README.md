@@ -11,9 +11,9 @@
 <a href="https://www.linkedin.com/in/yair-lazaro/" target="_blank"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="icon_LinkedIn"></a>
 <br>
 
-### <h1>Mi portfolio 💼</h1>
+### <h1>Mi portafolio 💼</h1>
 <a href="http://yair-portafolio.herokuapp.com/" target="_blank">
-  <img alt="Mi portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
+  <img alt="Mi portafolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
 </a>
 <br>
 
