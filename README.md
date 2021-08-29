@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/47293400/131231501-e1e5dece-0de8-4d3a-9ab3-3bef248b84c2.gif" alt="Mi banner">
+  <img border-radius="10px" src="https://user-images.githubusercontent.com/47293400/131231501-e1e5dece-0de8-4d3a-9ab3-3bef248b84c2.gif" alt="Mi banner">
 </p>
 
-<p align="center">Hola, soy Yair 👋</p>
+<p align="center" font-size="1.5em" font-weight="400">Hola, soy Yair 👋</p>
 
 ### <h1>Soy Desarrollador web Front-End 🖥️</h1>
 
