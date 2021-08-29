@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 <p>Adquirí mis habilidades para desarrollo web Front-End de manera autodidacta, con cursos online y documentaciones oficiales, me encanta la tecnología y todo lo relacionado a ella, me gusta mucho aprender cosas nuevas y usar ese conocimiento para mejorar mis habilidades como desarrollador constantemente.</p>
 
 ### <h1>Contactame 🤝</h1>
-
-<a href="https://www.linkedin.com/in/yair-lazaro/" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/47293400/131233042-80408a14-7614-4b8d-a75e-5fe4532aa5fa.png" alt="icon_LinkedIn" width="25px"></a>
+![LinkedIn]()
+<a href="https://www.linkedin.com/in/yair-lazaro/" target="_blank"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="icon_LinkedIn" width="25px"></a>
 <br>
 
 ### <h1>Mi portafolio 💼</h1>
@@ -42,33 +42,31 @@ Here are some ideas to get you started:
 <p>Front-End</p>
 <p display="felx" flex-wrap="wrap">
 <img alt="icon_html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-<img alt="icon_html" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-<img alt="icon_html" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
-<img alt="icon_html" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-<img alt="icon_html" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-<img alt="icon_html" src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white">
+<img alt="icon_css3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+<img alt="icon_sass" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
+<img alt="icon_javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img alt="icon_typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+<img alt="icon_angular" src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white">
 </p>
 <br>
 
 <P>Back-End</p>
 <p display="felx" flex-wrap="wrap">
-<img alt="icon_html" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-<img alt="icon_html" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-<img alt="icon_html" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+<img alt="icon_node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+<img alt="icon_express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+<img alt="icon_mongodb" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
 <br>
 
 <p>Herramientas</p>
 <p display="felx" flex-wrap="wrap">
-<img alt="icon_html" src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white">
-<img alt="icon_html" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
-<img alt="icon_html" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+<img alt="icon_gulp" src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white">
+<img alt="icon_npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
+<img alt="icon_git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 </p>
 <br>
 
 ### <h1>GitHub Stats 📈</h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LM-Yair&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
