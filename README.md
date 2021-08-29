@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img style="border-radius: 10px;" src="https://user-images.githubusercontent.com/47293400/131231501-e1e5dece-0de8-4d3a-9ab3-3bef248b84c2.gif" alt="Mi banner">
+<img src="https://user-images.githubusercontent.com/47293400/131231501-e1e5dece-0de8-4d3a-9ab3-3bef248b84c2.gif" alt="Mi banner">
 
-<p align="center" style="font-size: 2em; font-weight:400;">Hola, soy Yair 👋</p>
+<h4 align="center">Hola, soy Yair 👋</h4>
 
 ### <h1>Soy Desarrollador web Front-End 🖥️</h1>
 
