@@ -3,7 +3,7 @@
 
 <h3 align="center">Hola, soy Yair 👋</h3>
 
-### <h1>Soy Desarrollador web Front-End 🖥️</h1>
+### Soy Desarrollador web Front-End 🖥️
 
 <p>Adquirí mis habilidades para desarrollo web Front-End de manera autodidacta, con cursos online y documentaciones oficiales, me encanta la tecnología y todo lo relacionado a ella, me gusta mucho aprender cosas nuevas y usar ese conocimiento para mejorar mis habilidades como desarrollador constantemente.</p>
 
