@@ -3,7 +3,7 @@
 
 <h3 align="center">Hola, soy Yair 👋</h3>
 
-### Soy Desarrollador web Front-End 🖥️
+### <h1>Soy Desarrollador web Front-End 🖥️</h1>
 
 <p>Adquirí mis habilidades para desarrollo web Front-End de manera autodidacta, con cursos online y documentaciones oficiales, me encanta la tecnología y todo lo relacionado a ella, me gusta mucho aprender cosas nuevas y usar ese conocimiento para mejorar mis habilidades como desarrollador constantemente.</p>
 
@@ -48,6 +48,7 @@
 <img alt="icon_gulp" src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white">
 <img alt="icon_npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
 <img alt="icon_git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+<img alt="icon_react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 </p>
 <br>
 
