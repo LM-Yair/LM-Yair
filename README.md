@@ -1,11 +1,11 @@
 
 <img src="https://user-images.githubusercontent.com/47293400/131231501-e1e5dece-0de8-4d3a-9ab3-3bef248b84c2.gif" alt="Mi banner">
 
-<h3 align="center">Hola, soy Yair 👋</h3>
+<h3 align="center">Hola, soy Yair 🌮</h3>
 
 # Desarrollador web Front-End 🖥️
-
-Adquirí mis habilidades para desarrollo web Front-End de manera autodidacta, con cursos online y documentaciones oficiales, me encanta la tecnología y todo lo relacionado a ella, me gusta mucho aprender cosas nuevas y usar ese conocimiento para mejorar mis habilidades como desarrollador constantemente.
+Adquirí mis habilidades para desarrollo web Front-End de manera autodidacta, me encanta la tecnología y todo lo relacionado a ella, me gusta mucho aprender cosas nuevas y mejorar mis habilidades como desarrollador constantemente.
+Soy muy detallista, siempre me ha gustado que mí último proyecto sea mejor que el anterior, tengo una curiosidad natural y una gran pasión por lo que hago, mi abundante energía me impulsa a perseguir muchos intereses, pasatiempos y áreas de estudio, aprendo rápido, puedo adquirir nuevas habilidades y elaborar proyectos con relativa facilidad, dando siempre solución a un problema a la vez.
 
 # Contáctame 🤝
 - Visita mi [LinkedIn](https://www.linkedin.com/in/yair-lazaro/).
