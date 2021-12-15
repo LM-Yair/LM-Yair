@@ -5,7 +5,9 @@
 
 # Desarrollador web Front-End 🖥️
 
+```
 Adquirí mis habilidades para desarrollo web Front-End de manera autodidacta, con cursos online y documentaciones oficiales, me encanta la tecnología y todo lo relacionado a ella, me gusta mucho aprender cosas nuevas y usar ese conocimiento para mejorar mis habilidades como desarrollador constantemente.
+```
 
 # Contactame 🤝
 <a href="https://www.linkedin.com/in/yair-lazaro/" target="_blank"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="icon_LinkedIn"></a>
@@ -20,7 +22,7 @@ Adquirí mis habilidades para desarrollo web Front-End de manera autodidacta, co
 # <h1>Actualmente me dedico 👨‍💻</h1>
 
 <p>Actualmente me dedico a desarrollar landing pages a pequeños negocios, restaurantes, cafeterías, etc.</p>
-<p>Sigo aprendiendo todos los días para mejorar mis habilidades como programador y mejoro constantemente las practicas que uso en mis proyectos</p>
+<p>Sigo aprendiendo todos los días para mejorar mis habilidades como programador y mejoro constantemente las prácticas que uso en mis proyectos</p>
 
 # Habilidades técnicas 💡
 
