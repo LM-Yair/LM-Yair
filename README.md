@@ -24,7 +24,7 @@ Adquirí mis habilidades para desarrollo web Front-End de manera autodidacta, co
 
 # Habilidades técnicas 💡
 
-- Front-End
+> Front-End
 <p display="felx" flex-wrap="wrap">
 <img alt="icon_html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <img alt="icon_css3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
@@ -36,7 +36,7 @@ Adquirí mis habilidades para desarrollo web Front-End de manera autodidacta, co
 </p>
 <br>
 
-- Back-End
+> Back-End
 <p display="felx" flex-wrap="wrap">
 <img alt="icon_node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 <img alt="icon_express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
@@ -44,7 +44,7 @@ Adquirí mis habilidades para desarrollo web Front-End de manera autodidacta, co
 </p>
 <br>
 
-- Herramientas
+> Herramientas
 <p display="felx" flex-wrap="wrap">
 <img alt="icon_gulp" src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white">
 <img alt="icon_npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
