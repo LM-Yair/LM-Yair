@@ -3,28 +3,28 @@
 
 <h3 align="center">Hola, soy Yair 👋</h3>
 
-### Soy Desarrollador web Front-End 🖥️
+# Desarrollador web Front-End 🖥️
 
 Adquirí mis habilidades para desarrollo web Front-End de manera autodidacta, con cursos online y documentaciones oficiales, me encanta la tecnología y todo lo relacionado a ella, me gusta mucho aprender cosas nuevas y usar ese conocimiento para mejorar mis habilidades como desarrollador constantemente.
 
-### Contactame 🤝<
+# Contactame 🤝
 <a href="https://www.linkedin.com/in/yair-lazaro/" target="_blank"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="icon_LinkedIn"></a>
 <br>
 
-### <h1>Mi portafolio 💼</h1>
+# Mi portafolio 💼
 <a href="http://yair-portafolio.herokuapp.com/" target="_blank">
   <img alt="Mi portafolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
 </a>
 <br>
 
-### <h1>Actualmente me dedico 👨‍💻</h1>
+# <h1>Actualmente me dedico 👨‍💻</h1>
 
 <p>Actualmente me dedico a desarrollar landing pages a pequeños negocios, restaurantes, cafeterías, etc.</p>
 <p>Sigo aprendiendo todos los días para mejorar mis habilidades como programador y mejoro constantemente las practicas que uso en mis proyectos</p>
 
-### <h1>Habilidades técnicas 💡</h1>
+# Habilidades técnicas 💡
 
-<p>Front-End</p>
+## Front-End
 <p display="felx" flex-wrap="wrap">
 <img alt="icon_html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <img alt="icon_css3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
@@ -36,7 +36,7 @@ Adquirí mis habilidades para desarrollo web Front-End de manera autodidacta, co
 </p>
 <br>
 
-<P>Back-End</p>
+## Back-End
 <p display="felx" flex-wrap="wrap">
 <img alt="icon_node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 <img alt="icon_express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
@@ -44,7 +44,7 @@ Adquirí mis habilidades para desarrollo web Front-End de manera autodidacta, co
 </p>
 <br>
 
-<p>Herramientas</p>
+## Herramientas
 <p display="felx" flex-wrap="wrap">
 <img alt="icon_gulp" src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white">
 <img alt="icon_npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
@@ -52,7 +52,7 @@ Adquirí mis habilidades para desarrollo web Front-End de manera autodidacta, co
 </p>
 <br>
 
-### <h1>GitHub Stats 📈</h1>
+# GitHub Stats 📈
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LM-Yair&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
