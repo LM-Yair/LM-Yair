@@ -31,7 +31,6 @@ Actualmente dedico mi tiempo como desarrollador con pequeños negocios, restaura
 <img alt="icon_angular" src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white">
 <img alt="icon_react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 </p>
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 <br>
 
 > Back-End
@@ -50,3 +49,4 @@ Actualmente dedico mi tiempo como desarrollador con pequeños negocios, restaura
 </p>
 <br>
 
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
