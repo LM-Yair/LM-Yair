@@ -17,7 +17,7 @@ Actualmente dedico mi tiempo como desarrollador con pequeños negocios, restaura
 ## Mi portafolio 💼
 - Visita mi [ Portafolio aquí ](http://yair-portafolio.herokuapp.com/).
 
-## Mi Blog
+## Mi Blog ☕
 - Visita mi [Blog](https://yair-lazaro-blog.herokuapp.com/)
 
 En el encontrarás pequeños cursos y tips sobre programación que te ayudarán a mejorar.
