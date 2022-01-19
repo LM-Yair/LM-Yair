@@ -1,8 +1,9 @@
+
 ![luca-bravo-XJXWbfSo2f0-unsplash](https://user-images.githubusercontent.com/47293400/150095682-3b188492-21f4-482d-be65-8a55ce82ba50.jpg)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LM-Yair&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+# Hola, soy Yair 🌮
 
-# Hola, soy Yair 👋🏼
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LM-Yair&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Desarrollador web Front-End 🖥️
 Adquirí mis habilidades para desarrollo web Front-End de manera autodidacta, me encanta la tecnología y todo lo relacionado a ella, me gusta mucho aprender cosas nuevas y mejorar mis habilidades como desarrollador constantemente.
