@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LM-Yair&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hola, soy Yair 🌮
 
 # Desarrollador web Front-End 🖥️
@@ -10,7 +12,7 @@ Soy muy detallista, siempre me ha gustado que mí último proyecto sea mejor que
 # Mi portafolio 💼
 - Visita mi [ Portafolio aquí ](http://yair-portafolio.herokuapp.com/).
 
-# <h1>Actualmente me dedico 👨‍💻</h1>
+# Actualmente me dedico 👨‍💻
 
 Actualmente dedico mi tiempo como desarrollador con pequeños negocios, restaurantes y proyectos propios, he trabajado con tecnologías como: React, vanilla JavaScript, Html, Css, Sass, Bootstrap5, MongoDb, NodeJs y ExpressJs.Sigo aprendiendo todos los días para mejorar mis habilidades como programador y mejoro constantemente las prácticas que uso en mis proyectos.
 
@@ -44,7 +46,5 @@ Actualmente dedico mi tiempo como desarrollador con pequeños negocios, restaura
 </p>
 <br>
 
-# GitHub Stats 📈
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LM-Yair&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
