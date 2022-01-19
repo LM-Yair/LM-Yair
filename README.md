@@ -1,7 +1,4 @@
-
-<img src="https://user-images.githubusercontent.com/47293400/131231501-e1e5dece-0de8-4d3a-9ab3-3bef248b84c2.gif" alt="Mi banner">
-
-<h3 align="center">Hola, soy Yair 🌮</h3>
+### Hola, soy Yair 🌮
 
 # Desarrollador web Front-End 🖥️
 Adquirí mis habilidades para desarrollo web Front-End de manera autodidacta, me encanta la tecnología y todo lo relacionado a ella, me gusta mucho aprender cosas nuevas y mejorar mis habilidades como desarrollador constantemente.
@@ -32,7 +29,7 @@ Actualmente dedico mi tiempo como desarrollador con pequeños negocios, restaura
 <br>
 
 > Back-End
-<p display="felx" flex-wrap="wrap">
+<p display="flex" flex-wrap="wrap">
 <img alt="icon_node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 <img alt="icon_express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
 <img alt="icon_mongodb" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
