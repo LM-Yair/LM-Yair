@@ -4,7 +4,7 @@
 # Hola, soy Yair 🌮
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin?username=LM-Yair&repo=LM-Yair&theme=react)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LM-Yair&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LM-Yair&count_private=true&show_icons=true&theme=react)
 
 ## Desarrollador web Front-End 🖥️
 Adquirí mis habilidades para desarrollo web Front-End de manera autodidacta, me encanta la tecnología y todo lo relacionado a ella, me gusta mucho aprender cosas nuevas y mejorar mis habilidades como desarrollador constantemente.
