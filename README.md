@@ -9,6 +9,7 @@
 ## Desarrollador web Front-End 🖥️
 Adquirí mis habilidades para desarrollo web Front-End de manera autodidacta, me encanta la tecnología y todo lo relacionado a ella, me gusta mucho aprender cosas nuevas y mejorar mis habilidades como desarrollador constantemente.
 Soy muy detallista, siempre me ha gustado que mí último proyecto sea mejor que el anterior, tengo una curiosidad natural y una gran pasión por lo que hago, mi abundante energía me impulsa a perseguir muchos intereses, pasatiempos y áreas de estudio, aprendo rápido, puedo adquirir nuevas habilidades y elaborar proyectos con relativa facilidad, dando siempre solución a un problema a la vez.
+Actualmente dedico mi tiempo como desarrollador con pequeños negocios, restaurantes y proyectos propios, he trabajado con tecnologías como: React, vanilla JavaScript, Html, Css, Sass, Bootstrap5, MongoDb, NodeJs y ExpressJs.Sigo aprendiendo todos los días para mejorar mis habilidades como programador y mejoro constantemente las prácticas que uso en mis proyectos.
 
 ## Contáctame 🤝
 - Visita mi [LinkedIn](https://www.linkedin.com/in/yair-lazaro/).
@@ -16,9 +17,10 @@ Soy muy detallista, siempre me ha gustado que mí último proyecto sea mejor que
 ## Mi portafolio 💼
 - Visita mi [ Portafolio aquí ](http://yair-portafolio.herokuapp.com/).
 
-## Actualmente me dedico 👨‍💻
+## Mi Blog
+- Visita mi [Blog](https://yair-lazaro-blog.herokuapp.com/)
 
-Actualmente dedico mi tiempo como desarrollador con pequeños negocios, restaurantes y proyectos propios, he trabajado con tecnologías como: React, vanilla JavaScript, Html, Css, Sass, Bootstrap5, MongoDb, NodeJs y ExpressJs.Sigo aprendiendo todos los días para mejorar mis habilidades como programador y mejoro constantemente las prácticas que uso en mis proyectos.
+En el encontrarás pequeños cursos y tips sobre programación que te ayudarán a mejorar.
 
 ## Habilidades técnicas 💡
 
