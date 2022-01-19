@@ -2,21 +2,21 @@
 
 ### Hola, soy Yair 🌮
 
-# Desarrollador web Front-End 🖥️
+## Desarrollador web Front-End 🖥️
 Adquirí mis habilidades para desarrollo web Front-End de manera autodidacta, me encanta la tecnología y todo lo relacionado a ella, me gusta mucho aprender cosas nuevas y mejorar mis habilidades como desarrollador constantemente.
 Soy muy detallista, siempre me ha gustado que mí último proyecto sea mejor que el anterior, tengo una curiosidad natural y una gran pasión por lo que hago, mi abundante energía me impulsa a perseguir muchos intereses, pasatiempos y áreas de estudio, aprendo rápido, puedo adquirir nuevas habilidades y elaborar proyectos con relativa facilidad, dando siempre solución a un problema a la vez.
 
-# Contáctame 🤝
+## Contáctame 🤝
 - Visita mi [LinkedIn](https://www.linkedin.com/in/yair-lazaro/).
 
-# Mi portafolio 💼
+## Mi portafolio 💼
 - Visita mi [ Portafolio aquí ](http://yair-portafolio.herokuapp.com/).
 
-# Actualmente me dedico 👨‍💻
+## Actualmente me dedico 👨‍💻
 
 Actualmente dedico mi tiempo como desarrollador con pequeños negocios, restaurantes y proyectos propios, he trabajado con tecnologías como: React, vanilla JavaScript, Html, Css, Sass, Bootstrap5, MongoDb, NodeJs y ExpressJs.Sigo aprendiendo todos los días para mejorar mis habilidades como programador y mejoro constantemente las prácticas que uso en mis proyectos.
 
-# Habilidades técnicas 💡
+## Habilidades técnicas 💡
 
 > Front-End
 <p display="felx" flex-wrap="wrap">
@@ -45,6 +45,4 @@ Actualmente dedico mi tiempo como desarrollador con pequeños negocios, restaura
 <img alt="icon_git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 </p>
 <br>
-
-
 
