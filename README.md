@@ -3,7 +3,8 @@
 
 # Hola, soy Yair 🌮
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LM-Yair&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LM-Yair&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin?username=LM-Yair&repo=LM-Yair&theme=react)
 
 ## Desarrollador web Front-End 🖥️
 Adquirí mis habilidades para desarrollo web Front-End de manera autodidacta, me encanta la tecnología y todo lo relacionado a ella, me gusta mucho aprender cosas nuevas y mejorar mis habilidades como desarrollador constantemente.
@@ -31,7 +32,6 @@ Actualmente dedico mi tiempo como desarrollador con pequeños negocios, restaura
 <img alt="icon_angular" src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white">
 <img alt="icon_react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 </p>
-<br>
 
 > Back-End
 <p display="flex" flex-wrap="wrap">
@@ -39,7 +39,6 @@ Actualmente dedico mi tiempo como desarrollador con pequeños negocios, restaura
 <img alt="icon_express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
 <img alt="icon_mongodb" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
-<br>
 
 > Herramientas
 <p display="felx" flex-wrap="wrap">
