@@ -1,5 +1,5 @@
 
-![luca-bravo-XJXWbfSo2f0-unsplash](https://user-images.githubusercontent.com/47293400/150095682-3b188492-21f4-482d-be65-8a55ce82ba50.jpg)
+![Banner_Tech](https://user-images.githubusercontent.com/47293400/150873416-11f8371c-6486-47c6-aeaa-111e04683e7e.png)
 
 # Hola, soy Yair 🌮
 
