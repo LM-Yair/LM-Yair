@@ -53,5 +53,3 @@ Las ganas de aprender y crecer más cada día, me permiten fácilmente aprender 
 ![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Vitest](https://img.shields.io/static/v1?style=for-the-badge&color=white&label=Vitest&labelColor=%236E9F18&logo=vitest&logoColor=%23fcc72b&message=+)
-
-![Snake animation](https://github.com/LM-Yair/LM-Yair/blob/output/github-contribution-grid-snake.svg)
