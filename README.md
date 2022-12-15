@@ -1,13 +1,13 @@
-
 ![Banner_Tech](https://user-images.githubusercontent.com/47293400/150873416-11f8371c-6486-47c6-aeaa-111e04683e7e.png)
 
-# Hola, soy Yair 🌮
+# Hola, soy Yair
 
 ![Yair's GitHub stats](https://github-readme-stats.vercel.app/api?username=LM-Yair&count_private=true&show_icons=true&theme=react)
 ![Yair's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LM-Yair&layout=compact&theme=react)
 
 ## Desarrollador web Front-End 🖥️
-Soy desarrollador web Front End, pero también suelo hacer Back End.
+
+Soy desarrollador web enfocado en el Front End, pero también suelo hacer Back End.
 
 Me gusta mucho llevar a cabo la maquetación e interactividad de las páginas web, también la optimización para el buen rendimiento y carga de sitios y aplicaciones web.
 
@@ -17,10 +17,32 @@ Procuro siempre mantener una buena relación con mis compañeros, siendo siempre
 
 Las ganas de aprender y crecer más cada día, me permiten fácilmente aprender las nuevas tecnologías que surgen con la demanda del querido mundo del desarrollo web.
 
+En este repositorio podrás encontrar algunos de mis proyectos personales y ejercicios de práctica que he realizado para mejorar mis habilidades en desarrollo web.
+
+> Instalación
+
+Para utilizar mis proyectos, primero debes clonar este repositorio en tu computadora local:
+
+> Uso
+
+Para utilizar cada proyecto, debes entrar en su carpeta correspondiente y seguir las instrucciones de uso que se encuentran en su archivo README individual.
+
+> Características
+
+- Proyectos personales y ejercicios de práctica en desarrollo web front-end y back-end.
+- Código limpio y bien documentado.
+- Utilización de las últimas tecnologías y buenas prácticas en desarrollo web.
+
+> Créditos
+
+Todos los proyectos en este repositorio son propiedad mía y están protegidos por la licencia MIT. Si utilizas cualquier parte de mi código, por favor no olvides darme los créditos correspondientes.
+
 ## Contáctame 🤝
+
 - Visita mi [LinkedIn](https://www.linkedin.com/in/yair-lazaro/).
 
 ## Mi portafolio 💼
+
 - Visita mi [ Portafolio aquí ](https://yairlazaro.vercel.app/).
 
 ## Habilidades técnicas 💡
