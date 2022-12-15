@@ -1,9 +1,6 @@
 ![Banner_Tech](https://user-images.githubusercontent.com/47293400/150873416-11f8371c-6486-47c6-aeaa-111e04683e7e.png)
 
-# Hola, soy Yair
-
-![Yair's GitHub stats](https://github-readme-stats.vercel.app/api?username=LM-Yair&count_private=true&show_icons=true&theme=react)
-![Yair's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LM-Yair&layout=compact&theme=react)
+![Yair's GitHub stats](https://github-readme-stats.vercel.app/api?username=LM-Yair&count_private=true&show_icons=true&theme=react) ![Yair's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LM-Yair&layout=compact&theme=react)
 
 ## Desarrollador web Front-End 🖥️
 
